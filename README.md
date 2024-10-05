@@ -2,31 +2,6 @@
   Hi, I'm Varini Awasthi
 </h1>
 
-<p align="center" style="font-size: 18px; color: #555; margin-bottom: 20px;">
-  Full Stack Developer | Web3 Learner | Machine Learning Enthusiast | UI/UX Designer
-</p>
-
-<div align="center" style="padding: 20px;">
-<div style="display: flex; flex-direction: column; gap: 20px;">
-    <div style="border: 2px solid #eee; border-radius: 10px; padding: 10px; max-width: 450px;">
-      <img src="https://streak-stats.demolab.com?user=variniawasthi&theme=transparent&hide_border=true&border_radius=10&card_width=400" style="border-radius: 10px;"/>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="border: 2px solid #ccc; border-radius: 10px; padding: 20px; margin: 20px auto; max-width: 600px;">
-  <h2 align="center" style="color: #333;">About Me</h2>
-  <p align="center" style="font-size: 16px; color: #666;">
-    I am passionate about building scalable web applications and exploring new technologies like Web3 and Machine Learning. I enjoy solving complex problems and designing user-friendly interfaces.
-  </p>
-</div>
-
-<!-- Graphs/Stats in Columns -->
-<p align="center">
-  <img width="510" height="170" src="https://swapnil-github-readme-stats.vercel.app/api?username=variniawasthi&show_icons=true&theme=transparent"/>
-  <img width="280" height="170" src="https://swapnil-github-readme-stats.vercel.app/api/top-langs/?username=variniawasthi&&langs_count=8&size_weight=0.15&count_weight=0.5&layout=compact&theme=transparent"/>
-</p>
-
 <h2 align="center" style="color: #333; padding-bottom: 20px;">Connect With Me</h2>
 
 <table align="center">
@@ -38,3 +13,24 @@
 </td>
   </tr>
 </table> 
+
+<div align="center" style="border: 2px solid #ccc; border-radius: 10px; padding: 20px; margin: 20px auto; max-width: 600px;">
+  <p align="center" style="font-size: 16px; color: #666;">
+    I am passionate about building scalable web applications and exploring new technologies like Web3 and Machine Learning. I enjoy solving complex problems and designing user-friendly interfaces.
+  </p>
+</div>
+
+<div align="center" style="padding: 20px;">
+<div style="display: flex; flex-direction: column; gap: 20px;">
+    <div style="border: 2px solid #eee; border-radius: 10px; padding: 10px; max-width: 450px;">
+      <img src="https://streak-stats.demolab.com?user=variniawasthi&theme=transparent&hide_border=true&border_radius=10&card_width=400" style="border-radius: 10px;"/>
+    </div>
+  </div>
+</div>
+
+
+<!-- Graphs/Stats in Columns -->
+<p align="center">
+  <img width="510" height="170" src="https://swapnil-github-readme-stats.vercel.app/api?username=variniawasthi&show_icons=true&theme=transparent"/>
+  <img width="280" height="170" src="https://swapnil-github-readme-stats.vercel.app/api/top-langs/?username=variniawasthi&&langs_count=8&size_weight=0.15&count_weight=0.5&layout=compact&theme=transparent"/>
+</p>
